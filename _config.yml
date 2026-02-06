@@ -20,11 +20,11 @@ author: Taylor Triviño
 ###############################################
 
 navbar-links:
-  Home: ""
-  About Me: "aboutme"
-  Research:
-  Outreach : ""
-  CV : ""
+  -Home: ""
+  -About Me: "aboutme"
+  -Research:
+  -Outreach : ""
+  -CV : ""
 
 
 ################
