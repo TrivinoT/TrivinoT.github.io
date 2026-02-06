@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Graduate Student at the University of Washington
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I’m a third year graduate student pursuing a Masters degree at the University of Washington (UW) in the School of Aquatic and Fishery Sciences. My current research focuses on the human dimensions of MPA management in California. Using survey data, I aim to understand, connect, and inform policy regarding social aspects of marine resource management. My intentions are to pursue a career at the intersection of science and policy. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
