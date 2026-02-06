@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Taylor Trivño 
+title: Taylor Triviño 
 
 # Your name to show in the footer
 author: Taylor Triviño 
@@ -19,12 +19,11 @@ author: Taylor Triviño
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  -Home: ""
-  -About Me: "aboutme"
-  -Research:
-  -Outreach : ""
-  -CV : ""
+navbar-links:  
+  About Me: "aboutme"
+  Research: "/Research/MS Thesis Work"
+  Outreach : ""
+  CV : ""
 
 
 ################
