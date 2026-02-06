@@ -9,5 +9,5 @@ My roots are grounded in Los Angeles, California, where my starting point in mar
 When I’m not in the office doing research, you can find me at the gym, baking, or watching a documentary during the weekdays. My hobbies that take up my free time on the weekends include going to concerts, crafting, thrifting, and exploring nature. I have made it my personal goal to learn and discover the cities I live in and share the reasons I call them home away from home!
  
 
-<img align="top" src="assets/img/professional_photo.jpg" alt="SACNAS Conference 2025" width="650"
+<img align="top" src="../assets/img/professional_photo.jpg" alt="SACNAS Conference 2025" width="650"
      height="449" />
